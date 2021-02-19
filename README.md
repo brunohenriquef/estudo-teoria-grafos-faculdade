@@ -19,14 +19,15 @@
 * 
 
 * Quando o problema se trata de relações entre elementos, representaremos os elementos por pontos e as relações por linhas
-.
-* *Pontos* = Vértices
-* *Linhas* = Arestas
-.
+   * *Pontos* = Vértices
+   * *Linhas* = Arestas
+
 * Quando temos apenas uma ou nenhuma ligação entre os vértices é chamado de ***grafo simples***.
 * Quando tempos mais de uma ligação por vértice chamamos de ***multigrafos***.
 * Quando um vértice está ligado a ele mesmo o chamamos de ***loop***
-.
+
+---
+
 * ### Um grafo simples é composto por:
    * Conjunto de vértices (V)
    * Conjunto de Elos (E) (são as ligações entre os pontos)
@@ -35,9 +36,6 @@
 
 ---
 
-
-
----
 
 # Fontes
 
